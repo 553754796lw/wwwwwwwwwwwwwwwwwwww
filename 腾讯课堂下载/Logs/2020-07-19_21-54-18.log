@@ -1,0 +1,25 @@
+﻿LOG 2020/07/19
+Save Path: C:\Users\Administrator.USER-20200623OM\Desktop\N_m3u8DL-CLI_v2.6.3_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2020/07/19 21:54:18
+Task CommandLine: "C:\Users\Administrator.USER-20200623OM\Desktop\N_m3u8DL-CLI_v2.6.3_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v2.6.3.exe" "https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/9d8cf7f05285890805171783293/drm/voddrm.token.dWluPTE0NDExNTE5ODU3NzI4MTgwODt2b2RfdHlwZT0wO2NpZD0yNzcxOTIzO3Rlcm1faWQ9MTAyODgwNzg3O2V4dD05MGMyMjZiZjA0NGNkZWE0NjIxNTU0ZjNmODFjMzM2ZWRiNDE2ZjhjNmJlMDAxODlkYWI5ZDgwNTA5MDFhOTU0YjNiZTBiM2M2Y2MxN2VmMjNlMTVjYjMzNzcwMjA4ZDM4Y2YzNjE4Yzk5M2YwNWI5NmIyNzdkYmUxMzU3YWZlNzFiNDYwNjIzZGRmZDgzZTU=.v.f30741.m3u8?exper=0&t=5f3bdd54&sign=f5ffd8a3dd20b81bf0116489a368dcc9&us=112323529423545587" --workDir "E:\珠峰课\彻底搞定Vue3.0核心源码\【第三天】彻底搞定Vue3.0核心源码" --saveName "【第三天】彻底搞定Vue3.0核心源码(1)" 
+
+21:54:18.555 / (NORMAL) Start Parsing https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/9d8cf7f05285890805171783293/drm/voddrm.token.dWluPTE0NDExNTE5ODU3NzI4MTgwODt2b2RfdHlwZT0wO2NpZD0yNzcxOTIzO3Rlcm1faWQ9MTAyODgwNzg3O2V4dD05MGMyMjZiZjA0NGNkZWE0NjIxNTU0ZjNmODFjMzM2ZWRiNDE2ZjhjNmJlMDAxODlkYWI5ZDgwNTA5MDFhOTU0YjNiZTBiM2M2Y2MxN2VmMjNlMTVjYjMzNzcwMjA4ZDM4Y2YzNjE4Yzk5M2YwNWI5NmIyNzdkYmUxMzU3YWZlNzFiNDYwNjIzZGRmZDgzZTU=.v.f30741.m3u8?exper=0&t=5f3bdd54&sign=f5ffd8a3dd20b81bf0116489a368dcc9&us=112323529423545587
+21:54:20.192 / (NORMAL) Parsing Content
+21:54:20.260 / (NORMAL) Opening https://ke.qq.com/cgi-bin/qcloud/get_dk?edk=CiBNTX9%2FT3lcpDfT3%2FoLWHHW4RHK0Nz%2BPxRIMdQ5FkjZKhCO08TAChiaoOvUBCokOTMyNDg4YmItOWZjYS00MzFiLWJiYjItNjFmMDhjYjNlYmM3&fileId=5285890805171783293&keySource=VodBuildInKMS&token=dWluPTE0NDExNTE5ODU3NzI4MTgwODt2b2RfdHlwZT0wO2NpZD0yNzcxOTIzO3Rlcm1faWQ9MTAyODgwNzg3O2V4dD05MGMyMjZiZjA0NGNkZWE0NjIxNTU0ZjNmODFjMzM2ZWRiNDE2ZjhjNmJlMDAxODlkYWI5ZDgwNTA5MDFhOTU0YjNiZTBiM2M2Y2MxN2VmMjNlMTVjYjMzNzcwMjA4ZDM4Y2YzNjE4Yzk5M2YwNWI5NmIyNzdkYmUxMzU3YWZlNzFiNDYwNjIzZGRmZDgzZTU%3D
+21:54:20.813 / (NORMAL) Writing Json: [meta.json]
+21:54:20.992 / (NORMAL) Start Downloading
+21:54:21.547 / (NORMAL) Reading Video Info
+21:54:21.652 / (NORMAL) PID 0x100: Video h264, yuv420p(tv, progressive), 1348x720, 15 fps, 15 tbr, 90k tbn, 30 tbc
+21:54:21.654 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 44 kb/s
+21:55:45.001 / (ERROR) DOWN: 操作超时 https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/9d8cf7f05285890805171783293/drm/v.f30741.ts?start=794169888&end=795145999&type=mpegts&sign=c74e6f89e8a00ef35a6061b660be74c3&t=5f3bdd54&us=112323529423545587
+21:57:42.224 / (NORMAL) Downloaded 1186 of 1187
+21:57:42.225 / (NORMAL) Retry Count 1 / 15
+21:57:45.265 / (NORMAL) Start Downloading
+21:57:45.846 / (NORMAL) Start Merging
+21:57:55.727 / (NORMAL) Result in [ffreport.log]
+21:57:55.729 / (NORMAL) Task Done
+
+Task End: 2020/07/19 21:57:55
+File: E:\珠峰课\彻底搞定Vue3.0核心源码\【第三天】彻底搞定Vue3.0核心源码\【第三天】彻底搞定Vue3.0核心源码(1).mp4
+
+

@@ -1,0 +1,21 @@
+﻿LOG 2020/07/19
+Save Path: C:\Users\Administrator.USER-20200623OM\Desktop\N_m3u8DL-CLI_v2.6.3_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2020/07/19 21:39:54
+Task CommandLine: "C:\Users\Administrator.USER-20200623OM\Desktop\N_m3u8DL-CLI_v2.6.3_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v2.6.3.exe" "https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/cae9109b5285890804769528853/drm/voddrm.token.dWluPTE0NDExNTE5ODU3NzI4MTgwODt2b2RfdHlwZT0wO2NpZD0yNzcxOTIzO3Rlcm1faWQ9MTAyODgwNzg3O2V4dD05MGMyMjZiZjA0NGNkZWE0NjIxNTU0ZjNmODFjMzM2ZWRiNDE2ZjhjNmJlMDAxODlkYWI5ZDgwNTA5MDFhOTU0YjNiZTBiM2M2Y2MxN2VmMjNlMTVjYjMzNzcwMjA4ZDM4Y2YzNjE4Yzk5M2YwNWI5NmIyNzdkYmUxMzU3YWZlNzFiNDYwNjIzZGRmZDgzZTU=.v.f30741.m3u8?sign=23177e7f092b6d5cd75455801e55a2c1&us=2308903289251014666&t=5f3bda0e&exper=0" --workDir "E:\珠峰课\彻底搞定Vue3.0核心源码\【第一天】DOM-DIFF算法与手写自定义渲染器" --saveName "3.手写实现Vue3响应式数据变化之依赖收集" 
+
+21:39:54.298 / (NORMAL) Start Parsing https://1258712167.vod2.myqcloud.com/fb8e6c92vodtranscq1258712167/cae9109b5285890804769528853/drm/voddrm.token.dWluPTE0NDExNTE5ODU3NzI4MTgwODt2b2RfdHlwZT0wO2NpZD0yNzcxOTIzO3Rlcm1faWQ9MTAyODgwNzg3O2V4dD05MGMyMjZiZjA0NGNkZWE0NjIxNTU0ZjNmODFjMzM2ZWRiNDE2ZjhjNmJlMDAxODlkYWI5ZDgwNTA5MDFhOTU0YjNiZTBiM2M2Y2MxN2VmMjNlMTVjYjMzNzcwMjA4ZDM4Y2YzNjE4Yzk5M2YwNWI5NmIyNzdkYmUxMzU3YWZlNzFiNDYwNjIzZGRmZDgzZTU=.v.f30741.m3u8?sign=23177e7f092b6d5cd75455801e55a2c1&us=2308903289251014666&t=5f3bda0e&exper=0
+21:39:55.346 / (NORMAL) Parsing Content
+21:39:55.428 / (NORMAL) Opening https://ke.qq.com/cgi-bin/qcloud/get_dk?edk=CiBeLIiMaQtTNcis%2BltLsdGhPwKsg5CCWOgT1RBo5K1CKhCO08TAChiaoOvUBCokOTMyNDg4YmItOWZjYS00MzFiLWJiYjItNjFmMDhjYjNlYmM3&fileId=5285890804769528853&keySource=VodBuildInKMS&token=dWluPTE0NDExNTE5ODU3NzI4MTgwODt2b2RfdHlwZT0wO2NpZD0yNzcxOTIzO3Rlcm1faWQ9MTAyODgwNzg3O2V4dD05MGMyMjZiZjA0NGNkZWE0NjIxNTU0ZjNmODFjMzM2ZWRiNDE2ZjhjNmJlMDAxODlkYWI5ZDgwNTA5MDFhOTU0YjNiZTBiM2M2Y2MxN2VmMjNlMTVjYjMzNzcwMjA4ZDM4Y2YzNjE4Yzk5M2YwNWI5NmIyNzdkYmUxMzU3YWZlNzFiNDYwNjIzZGRmZDgzZTU%3D
+21:39:55.750 / (NORMAL) Writing Json: [meta.json]
+21:39:55.867 / (NORMAL) Start Downloading
+21:39:56.255 / (NORMAL) Reading Video Info
+21:39:56.348 / (NORMAL) PID 0x100: Video h264, yuv420p(tv, progressive), 1280x720, 15 fps, 15 tbr, 90k tbn, 30 tbc
+21:39:56.349 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 64 kb/s
+21:40:50.449 / (NORMAL) Start Merging
+21:40:52.466 / (NORMAL) Result in [ffreport.log]
+21:40:52.467 / (NORMAL) Task Done
+
+Task End: 2020/07/19 21:40:52
+File: E:\珠峰课\彻底搞定Vue3.0核心源码\【第一天】DOM-DIFF算法与手写自定义渲染器\3.手写实现Vue3响应式数据变化之依赖收集.mp4
+
+
